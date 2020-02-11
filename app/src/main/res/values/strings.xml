@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TiketSaya</string>
+    <string name="slogan">Wisata Jadi Lebih Asyik!</string>
+    <string name="signin">SIGN IN</string>
+    <string name="newacc">NEW ACCOUNT</string>
+    <string name="username_label">Username</string>
+    <string name="password_label">Password</string>
+    <string name="email_address_label">Email Address</string>
+    <string name="btn_continue">Continue</string>
+    <string name="create_new_acc_label">Create New Account</string>
+
+    <string name="nama_label">Name</string>
+    <string name="bio_label">Your Passion?</string>
+
+    <string name="explore">EXPLORE NOW</string>
+    <string name="btn_buy">BUY TICKET</string>
+    <string name="btn_pay">PAY NOW</string>
+
+    <string name="btn_refund">REFUND NOW</string>
+
+    <string name="btn_save_profile">SAVE PROFILE</string>
+
+
+</resources>
